@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1695299316170
+current_stage: Production
+description: ''
+last_updated_timestamp: 1695299327558
+name: classification
+run_id: 8cf6fc3b2ce242eaaec7a02588eff3f1
+run_link: ''
+source: mlflow-artifacts:/0/8cf6fc3b2ce242eaaec7a02588eff3f1/artifacts/pytorch-model
+status: READY
+status_message: null
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8990bad2d08e4d1782dd2a3345d47798/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8990bad2d08e4d1782dd2a3345d47798
+run_name: classification
+run_uuid: 8990bad2d08e4d1782dd2a3345d47798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695299184988
+status: 1
+tags: []
+user_id: tari
